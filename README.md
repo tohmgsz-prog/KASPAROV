@@ -19,7 +19,6 @@ Projeto desenvolvido por **Tomás Serra** no âmbito da PAP (Prova de Aptidão P
 - [Instalação](#-instalação)
 - [Como Correr o Projeto](#-como-correr-o-projeto)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Capturas de Ecrã / Demo](#-capturas-de-ecrã--demo)
 - [Licença e Patente](#-licença-e-patente)
 - [Autor](#-autor)
 
@@ -150,4 +149,4 @@ Projeto desenvolvido no âmbito da Prova de Aptidão Profissional (PAP)
 
 ---
 
-Feito com um tabuleiro de xadrez , café e muita depuração de bugs.
+Feito com um tabuleiro de xadrez ♟️  , café e muita depuração de bugs.
